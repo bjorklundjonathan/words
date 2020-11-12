@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging D:\Programmering\VsCode\words\target\scala-2.13\words_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	nlp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Programmering\VsCode\words\target\scala-2.13\classes\nlp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	nlp\FreqMapBuilder$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Programmering\VsCode\words\target\scala-2.13\classes\nlp\FreqMapBuilder$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	nlp\FreqMapBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Programmering\VsCode\words\target\scala-2.13\classes\nlp\FreqMapBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	nlp\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Programmering\VsCode\words\target\scala-2.13\classes\nlp\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	nlp\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Programmering\VsCode\words\target\scala-2.13\classes\nlp\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	nlp\Text$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Programmering\VsCode\words\target\scala-2.13\classes\nlp\Text$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	nlp\Text.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Programmering\VsCode\words\target\scala-2.13\classes\nlp\Text.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
